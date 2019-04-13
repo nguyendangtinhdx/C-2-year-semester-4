@@ -1,0 +1,13 @@
+c:\users\nguye\documents\visual studio 2013\Projects\test\test\bin\Debug\test.exe.config
+c:\users\nguye\documents\visual studio 2013\Projects\test\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+c:\users\nguye\documents\visual studio 2013\Projects\test\test\obj\Debug\test.Form1.resources
+c:\users\nguye\documents\visual studio 2013\Projects\test\test\obj\Debug\test.Properties.Resources.resources
+c:\users\nguye\documents\visual studio 2013\Projects\test\test\obj\Debug\test.csproj.GenerateResource.Cache
+c:\users\nguye\documents\visual studio 2013\Projects\test\test\bin\Debug\test.exe
+c:\users\nguye\documents\visual studio 2013\Projects\test\test\bin\Debug\test.pdb
+c:\users\nguye\documents\visual studio 2013\Projects\test\test\obj\Debug\test.exe
+c:\users\nguye\documents\visual studio 2013\Projects\test\test\obj\Debug\test.pdb
+c:\users\nguye\documents\visual studio 2013\Projects\test\test\obj\Debug\test.frmMenu.resources
+C:\Users\nguye\documents\visual studio 2013\Projects\test\test\obj\Debug\test.frmIn.resources
+C:\Users\nguye\documents\visual studio 2013\Projects\test\test\obj\Debug\RdlCompile.cache
+C:\Users\nguye\documents\visual studio 2013\Projects\test\test\obj\Debug\RdlCompile.compiled

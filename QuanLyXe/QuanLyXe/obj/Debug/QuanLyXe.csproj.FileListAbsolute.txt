@@ -1,0 +1,12 @@
+c:\users\nguye\documents\visual studio 2013\Projects\QuanLyXe\QuanLyXe\bin\Debug\QuanLyXe.exe.config
+c:\users\nguye\documents\visual studio 2013\Projects\QuanLyXe\QuanLyXe\obj\Debug\QuanLyXe.csprojResolveAssemblyReference.cache
+c:\users\nguye\documents\visual studio 2013\Projects\QuanLyXe\QuanLyXe\obj\Debug\QuanLyXe.Properties.Resources.resources
+c:\users\nguye\documents\visual studio 2013\Projects\QuanLyXe\QuanLyXe\obj\Debug\QuanLyXe.csproj.GenerateResource.Cache
+c:\users\nguye\documents\visual studio 2013\Projects\QuanLyXe\QuanLyXe\bin\Debug\QuanLyXe.exe
+c:\users\nguye\documents\visual studio 2013\Projects\QuanLyXe\QuanLyXe\bin\Debug\QuanLyXe.pdb
+c:\users\nguye\documents\visual studio 2013\Projects\QuanLyXe\QuanLyXe\obj\Debug\QuanLyXe.exe
+c:\users\nguye\documents\visual studio 2013\Projects\QuanLyXe\QuanLyXe\obj\Debug\QuanLyXe.pdb
+c:\users\nguye\documents\visual studio 2013\Projects\QuanLyXe\QuanLyXe\obj\Debug\QuanLyXe.frmXe.resources
+C:\Users\nguye\documents\visual studio 2013\Projects\QuanLyXe\QuanLyXe\obj\Debug\QuanLyXe.frmInXe.resources
+C:\Users\nguye\documents\visual studio 2013\Projects\QuanLyXe\QuanLyXe\obj\Debug\RdlCompile.cache
+C:\Users\nguye\documents\visual studio 2013\Projects\QuanLyXe\QuanLyXe\obj\Debug\RdlCompile.compiled

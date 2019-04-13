@@ -1,0 +1,13 @@
+C:\Users\nguye\source\repos\Baitap2\obj\Release\Baitap2.Text.resources
+C:\Users\nguye\source\repos\Baitap2\obj\Release\Baitap2.Properties.Resources.resources
+C:\Users\nguye\source\repos\Baitap2\obj\Release\Baitap2.VeDuongThang.resources
+C:\Users\nguye\source\repos\Baitap2\obj\Release\Baitap2.csproj.GenerateResource.Cache
+C:\Users\nguye\source\repos\Baitap2\obj\Release\Baitap2.csproj.CoreCompileInputs.cache
+C:\Users\nguye\source\repos\Baitap2\bin\Release\Baitap2.exe.config
+C:\Users\nguye\source\repos\Baitap2\bin\Release\Baitap2.exe
+C:\Users\nguye\source\repos\Baitap2\bin\Release\Baitap2.pdb
+C:\Users\nguye\source\repos\Baitap2\obj\Release\Baitap2.exe
+C:\Users\nguye\source\repos\Baitap2\obj\Release\Baitap2.pdb
+C:\Users\nguye\source\repos\Baitap2\obj\Release\Baitap2.CountDown.resources
+C:\Users\nguye\source\repos\Baitap2\obj\Release\Baitap2.Anh.resources
+C:\Users\nguye\source\repos\Baitap2\obj\Release\Baitap2.csprojResolveAssemblyReference.cache

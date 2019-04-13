@@ -1,0 +1,26 @@
+C:\Users\nguye\source\repos\BaiTap3\bin\Debug\BaiTap3.exe.config
+C:\Users\nguye\source\repos\BaiTap3\bin\Debug\BaiTap3.exe
+C:\Users\nguye\source\repos\BaiTap3\bin\Debug\BaiTap3.pdb
+C:\Users\nguye\source\repos\BaiTap3\obj\Debug\BaiTap3.csprojResolveAssemblyReference.cache
+C:\Users\nguye\source\repos\BaiTap3\obj\Debug\BaiTap3.Properties.Resources.resources
+C:\Users\nguye\source\repos\BaiTap3\obj\Debug\BaiTap3.csproj.GenerateResource.Cache
+C:\Users\nguye\source\repos\BaiTap3\obj\Debug\BaiTap3.csproj.CoreCompileInputs.cache
+C:\Users\nguye\source\repos\BaiTap3\obj\Debug\BaiTap3.exe
+C:\Users\nguye\source\repos\BaiTap3\obj\Debug\BaiTap3.pdb
+C:\Users\nguye\source\repos\BaiTap3\obj\Debug\BaiTap3.frmSach.resources
+C:\Users\nguye\source\repos\BaiTap3\obj\Debug\BaiTap3.frmNhapXoaSua.resources
+C:\Users\nguye\Documents\Visual Studio 2013\Projects\BaiTap3\bin\Debug\BaiTap3.exe.config
+C:\Users\nguye\Documents\Visual Studio 2013\Projects\BaiTap3\obj\Debug\BaiTap3.exe
+C:\Users\nguye\Documents\Visual Studio 2013\Projects\BaiTap3\obj\Debug\BaiTap3.pdb
+C:\Users\nguye\Documents\Visual Studio 2013\Projects\BaiTap3\bin\Debug\BaiTap3.exe
+C:\Users\nguye\Documents\Visual Studio 2013\Projects\BaiTap3\bin\Debug\BaiTap3.pdb
+C:\Users\nguye\Documents\Visual Studio 2013\Projects\BaiTap3\obj\Debug\BaiTap3.csprojResolveAssemblyReference.cache
+C:\Users\nguye\Documents\Visual Studio 2013\Projects\BaiTap3\obj\Debug\BaiTap3.frmSach.resources
+C:\Users\nguye\Documents\Visual Studio 2013\Projects\BaiTap3\obj\Debug\BaiTap3.frmNhapXoaSua.resources
+C:\Users\nguye\Documents\Visual Studio 2013\Projects\BaiTap3\obj\Debug\BaiTap3.Properties.Resources.resources
+C:\Users\nguye\Documents\Visual Studio 2013\Projects\BaiTap3\obj\Debug\BaiTap3.csproj.GenerateResource.Cache
+C:\Users\nguye\Documents\Visual Studio 2013\Projects\BaiTap3\obj\Debug\BaiTap3.frmNhanVien.resources
+C:\Users\nguye\Documents\Visual Studio 2013\Projects\BaiTap3\obj\Debug\BaiTap3.frmIn.resources
+C:\Users\nguye\Documents\Visual Studio 2013\Projects\BaiTap3\obj\Debug\BaiTap3.frmDangNhap.resources
+C:\Users\nguye\Documents\Visual Studio 2013\Projects\BaiTap3\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\nguye\Documents\Visual Studio 2013\Projects\BaiTap3\obj\Debug\BaiTap3.csproj.CoreCompileInputs.cache

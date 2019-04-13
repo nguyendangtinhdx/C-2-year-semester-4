@@ -1,0 +1,13 @@
+C:\Users\nguye\source\repos\Baitap1\bin\Debug\Baitap1.exe.config
+C:\Users\nguye\source\repos\Baitap1\bin\Debug\Baitap1.exe
+C:\Users\nguye\source\repos\Baitap1\bin\Debug\Baitap1.pdb
+C:\Users\nguye\source\repos\Baitap1\obj\Debug\Baitap1.csprojResolveAssemblyReference.cache
+C:\Users\nguye\source\repos\Baitap1\obj\Debug\Baitap1.Properties.Resources.resources
+C:\Users\nguye\source\repos\Baitap1\obj\Debug\Baitap1.csproj.GenerateResource.Cache
+C:\Users\nguye\source\repos\Baitap1\obj\Debug\Baitap1.csproj.CoreCompileInputs.cache
+C:\Users\nguye\source\repos\Baitap1\obj\Debug\Baitap1.exe
+C:\Users\nguye\source\repos\Baitap1\obj\Debug\Baitap1.pdb
+C:\Users\nguye\source\repos\Baitap1\obj\Debug\Baitap1.frmMenu.resources
+C:\Users\nguye\Documents\Visual Studio 2013\Projects\Baitap1\bin\Debug\Baitap1.exe.config
+C:\Users\nguye\Documents\Visual Studio 2013\Projects\Baitap1\obj\Debug\Baitap1.exe
+C:\Users\nguye\Documents\Visual Studio 2013\Projects\Baitap1\obj\Debug\Baitap1.pdb

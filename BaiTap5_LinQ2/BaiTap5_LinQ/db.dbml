@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Qlcafe" Class="dbDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=DESKTOP-264SA00\SQLEXPRESS;Initial Catalog=Qlcafe;User ID=sa" SettingsObjectName="BaiTap5_LinQ.Properties.Settings" SettingsPropertyName="QlcafeConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.ChiTietHoaDon" Member="ChiTietHoaDons">
+    <Type Name="ChiTietHoaDon">
+      <Column Name="MaChiTietHD" Type="System.Int64" DbType="BigInt NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="MaSach" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="SoLuongMua" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="MaHoaDon" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Association Name="sach_ChiTietHoaDon" Member="sach" ThisKey="MaSach" OtherKey="masach" Type="sach" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+      <Association Name="hoadon_ChiTietHoaDon" Member="hoadon" ThisKey="MaHoaDon" OtherKey="MaHoaDon" Type="hoadon" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.sach" Member="saches">
+    <Type Name="sach">
+      <Column Name="masach" Type="System.String" DbType="NVarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="tensach" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="tacgia" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="soluong" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="gia" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="sotap" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="anh" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="maloai" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="NgayNhap" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Association Name="sach_ChiTietHoaDon" Member="ChiTietHoaDons" ThisKey="masach" OtherKey="MaSach" Type="ChiTietHoaDon" />
+      <Association Name="loai_sach" Member="loai" ThisKey="maloai" OtherKey="maloai" Type="loai" IsForeignKey="true" DeleteRule="CASCADE" />
+    </Type>
+  </Table>
+  <Table Name="dbo.DangNhap" Member="DangNhaps">
+    <Type Name="DangNhap">
+      <Column Name="TenDangNhap" Type="System.String" DbType="NVarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="MatKhau" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Quyen" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.hoadon" Member="hoadons">
+    <Type Name="hoadon">
+      <Column Name="MaHoaDon" Type="System.Int64" DbType="BigInt NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="makh" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="NgayMua" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="damua" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Association Name="hoadon_ChiTietHoaDon" Member="ChiTietHoaDons" ThisKey="MaHoaDon" OtherKey="MaHoaDon" Type="ChiTietHoaDon" />
+      <Association Name="KhachHang_hoadon" Member="KhachHang" ThisKey="makh" OtherKey="Makh" Type="KhachHang" IsForeignKey="true" DeleteRule="CASCADE" />
+    </Type>
+  </Table>
+  <Table Name="dbo.KhachHang" Member="KhachHangs">
+    <Type Name="KhachHang">
+      <Column Name="Makh" Type="System.Int64" DbType="BigInt NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="hoten" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="diachi" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="SoDT" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="email" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="tendn" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="matkhau" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="KhachHang_hoadon" Member="hoadons" ThisKey="Makh" OtherKey="makh" Type="hoadon" />
+    </Type>
+  </Table>
+  <Table Name="dbo.loai" Member="loais">
+    <Type Name="loai">
+      <Column Name="maloai" Type="System.String" DbType="NVarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="tenloai" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="loai_sach" Member="saches" ThisKey="maloai" OtherKey="maloai" Type="sach" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Test" Member="Tests">
+    <Type Name="Test">
+      <Column Name="tenloai" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="tensach" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="gia" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="SoLuongMua" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="NgayMua" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="hoten" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.TestThongKe" Member="TestThongKes">
+    <Type Name="TestThongKe">
+      <Column Name="[Tên loại]" Member="Tên_loại" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="[Số sách]" Member="Số_sách" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="[Tổng số lượng]" Member="Tổng_số_lượng" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="[Min giá]" Member="Min_giá" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="[Tổng tiền]" Member="Tổng_tiền" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.ThongKeHoaDon" Member="ThongKeHoaDons">
+    <Type Name="ThongKeHoaDon">
+      <Column Name="MaBan" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="TenHang" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Gia" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="SoLuongMua" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="ThanhTien" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="DaTraTien" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+</Database>

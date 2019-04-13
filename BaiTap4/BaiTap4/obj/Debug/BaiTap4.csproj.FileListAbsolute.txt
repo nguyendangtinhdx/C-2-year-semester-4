@@ -1,0 +1,10 @@
+c:\users\nguye\documents\visual studio 2013\Projects\BaiTap4\BaiTap4\bin\Debug\BaiTap4.exe.config
+c:\users\nguye\documents\visual studio 2013\Projects\BaiTap4\BaiTap4\obj\Debug\BaiTap4.csprojResolveAssemblyReference.cache
+c:\users\nguye\documents\visual studio 2013\Projects\BaiTap4\BaiTap4\obj\Debug\BaiTap4.Form1.resources
+c:\users\nguye\documents\visual studio 2013\Projects\BaiTap4\BaiTap4\obj\Debug\BaiTap4.Properties.Resources.resources
+c:\users\nguye\documents\visual studio 2013\Projects\BaiTap4\BaiTap4\obj\Debug\BaiTap4.csproj.GenerateResource.Cache
+c:\users\nguye\documents\visual studio 2013\Projects\BaiTap4\BaiTap4\bin\Debug\BaiTap4.exe
+c:\users\nguye\documents\visual studio 2013\Projects\BaiTap4\BaiTap4\bin\Debug\BaiTap4.pdb
+c:\users\nguye\documents\visual studio 2013\Projects\BaiTap4\BaiTap4\obj\Debug\BaiTap4.exe
+c:\users\nguye\documents\visual studio 2013\Projects\BaiTap4\BaiTap4\obj\Debug\BaiTap4.pdb
+c:\users\nguye\documents\visual studio 2013\Projects\BaiTap4\BaiTap4\obj\Debug\BaiTap4.Form2.resources

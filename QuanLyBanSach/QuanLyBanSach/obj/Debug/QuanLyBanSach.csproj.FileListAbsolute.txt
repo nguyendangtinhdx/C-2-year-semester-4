@@ -1,0 +1,62 @@
+D:\project\C#\QuanLyBanSach\QuanLyBanSach\bin\Debug\QuanLyBanSach.exe.config
+D:\project\C#\QuanLyBanSach\QuanLyBanSach\bin\Debug\QuanLyBanSach.exe
+D:\project\C#\QuanLyBanSach\QuanLyBanSach\bin\Debug\QuanLyBanSach.pdb
+D:\project\C#\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.csprojResolveAssemblyReference.cache
+D:\project\C#\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.Form1.resources
+D:\project\C#\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.Properties.Resources.resources
+D:\project\C#\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.csproj.GenerateResource.Cache
+D:\project\C#\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.exe
+D:\project\C#\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.pdb
+D:\project\C#\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.ChangePassWord.resources
+D:\project\C#\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.FNhanVien.resources
+D:\project\C#\QuanLyBanSach\QuanLyBanSach\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\project\C#\QuanLyBanSach\QuanLyBanSach\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\project\C#\QuanLyBanSach\QuanLyBanSach\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\project\C#\QuanLyBanSach\QuanLyBanSach\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\project\C#\QuanLyBanSach\QuanLyBanSach\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\project\C#\QuanLyBanSach\QuanLyBanSach\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\project\C#\QuanLyBanSach\QuanLyBanSach\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\project\C#\QuanLyBanSach\QuanLyBanSach\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\project\C#\QuanLyBanSach\QuanLyBanSach\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\project\C#\QuanLyBanSach\QuanLyBanSach\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\project\C#\QuanLyBanSach\QuanLyBanSach\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\project\C#\QuanLyBanSach\QuanLyBanSach\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\project\C#\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.QuanLyBanSach123.resources
+D:\project\C#\QuanLyBanSach\QuanLyBanSach\obj\Debug\RdlCompile.cache
+D:\project\C#\QuanLyBanSach\QuanLyBanSach\obj\Debug\RdlCompile.compiled
+D:\project\C#\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.FInHoaDon.resources
+D:\project\C#\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.FThongKe.resources
+C:\Users\nguye\Documents\QuanLyBanSach\QuanLyBanSach\bin\Debug\QuanLyBanSach.exe.config
+C:\Users\nguye\Documents\QuanLyBanSach\QuanLyBanSach\bin\Debug\QuanLyBanSach.exe
+C:\Users\nguye\Documents\QuanLyBanSach\QuanLyBanSach\bin\Debug\QuanLyBanSach.pdb
+C:\Users\nguye\Documents\QuanLyBanSach\QuanLyBanSach\bin\Debug\System.Net.Http.dll
+C:\Users\nguye\Documents\QuanLyBanSach\QuanLyBanSach\bin\Debug\System.Net.Http.xml
+C:\Users\nguye\Documents\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.csprojResolveAssemblyReference.cache
+C:\Users\nguye\Documents\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.ChangePassWord.resources
+C:\Users\nguye\Documents\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.FInHoaDon.resources
+C:\Users\nguye\Documents\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.FNhanVien.resources
+C:\Users\nguye\Documents\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.Form1.resources
+C:\Users\nguye\Documents\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.FThongKe.resources
+C:\Users\nguye\Documents\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.Properties.Resources.resources
+C:\Users\nguye\Documents\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.QuanLyBanSach123.resources
+C:\Users\nguye\Documents\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.csproj.GenerateResource.Cache
+C:\Users\nguye\Documents\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Documents\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.exe
+C:\Users\nguye\Documents\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.pdb
+C:\Users\nguye\Documents\Visual Studio 2013\Projects\QuanLyBanSach\QuanLyBanSach\bin\Debug\QuanLyBanSach.exe.config
+C:\Users\nguye\Documents\Visual Studio 2013\Projects\QuanLyBanSach\QuanLyBanSach\bin\Debug\QuanLyBanSach.exe
+C:\Users\nguye\Documents\Visual Studio 2013\Projects\QuanLyBanSach\QuanLyBanSach\bin\Debug\QuanLyBanSach.pdb
+C:\Users\nguye\Documents\Visual Studio 2013\Projects\QuanLyBanSach\QuanLyBanSach\bin\Debug\System.Net.Http.dll
+C:\Users\nguye\Documents\Visual Studio 2013\Projects\QuanLyBanSach\QuanLyBanSach\bin\Debug\System.Net.Http.xml
+C:\Users\nguye\Documents\Visual Studio 2013\Projects\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.csprojResolveAssemblyReference.cache
+C:\Users\nguye\Documents\Visual Studio 2013\Projects\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.ChangePassWord.resources
+C:\Users\nguye\Documents\Visual Studio 2013\Projects\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.FInHoaDon.resources
+C:\Users\nguye\Documents\Visual Studio 2013\Projects\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.FNhanVien.resources
+C:\Users\nguye\Documents\Visual Studio 2013\Projects\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.Form1.resources
+C:\Users\nguye\Documents\Visual Studio 2013\Projects\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.FThongKe.resources
+C:\Users\nguye\Documents\Visual Studio 2013\Projects\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.Properties.Resources.resources
+C:\Users\nguye\Documents\Visual Studio 2013\Projects\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.QuanLyBanSach123.resources
+C:\Users\nguye\Documents\Visual Studio 2013\Projects\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.csproj.GenerateResource.Cache
+C:\Users\nguye\Documents\Visual Studio 2013\Projects\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Documents\Visual Studio 2013\Projects\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.exe
+C:\Users\nguye\Documents\Visual Studio 2013\Projects\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.pdb

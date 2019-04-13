@@ -1,0 +1,12 @@
+c:\users\nguye\documents\visual studio 2013\Projects\NguyenDangTinh\NguyenDangTinh\bin\Debug\NguyenDangTinh.exe.config
+c:\users\nguye\documents\visual studio 2013\Projects\NguyenDangTinh\NguyenDangTinh\obj\Debug\NguyenDangTinh.csprojResolveAssemblyReference.cache
+c:\users\nguye\documents\visual studio 2013\Projects\NguyenDangTinh\NguyenDangTinh\obj\Debug\NguyenDangTinh.QuanLyCuaHang.resources
+c:\users\nguye\documents\visual studio 2013\Projects\NguyenDangTinh\NguyenDangTinh\obj\Debug\NguyenDangTinh.Properties.Resources.resources
+c:\users\nguye\documents\visual studio 2013\Projects\NguyenDangTinh\NguyenDangTinh\obj\Debug\NguyenDangTinh.csproj.GenerateResource.Cache
+c:\users\nguye\documents\visual studio 2013\Projects\NguyenDangTinh\NguyenDangTinh\bin\Debug\NguyenDangTinh.exe
+c:\users\nguye\documents\visual studio 2013\Projects\NguyenDangTinh\NguyenDangTinh\bin\Debug\NguyenDangTinh.pdb
+c:\users\nguye\documents\visual studio 2013\Projects\NguyenDangTinh\NguyenDangTinh\obj\Debug\NguyenDangTinh.exe
+c:\users\nguye\documents\visual studio 2013\Projects\NguyenDangTinh\NguyenDangTinh\obj\Debug\NguyenDangTinh.pdb
+c:\users\nguye\documents\visual studio 2013\Projects\NguyenDangTinh\NguyenDangTinh\obj\Debug\NguyenDangTinh.InCuaHang.resources
+c:\users\nguye\documents\visual studio 2013\Projects\NguyenDangTinh\NguyenDangTinh\obj\Debug\RdlCompile.cache
+c:\users\nguye\documents\visual studio 2013\Projects\NguyenDangTinh\NguyenDangTinh\obj\Debug\RdlCompile.compiled

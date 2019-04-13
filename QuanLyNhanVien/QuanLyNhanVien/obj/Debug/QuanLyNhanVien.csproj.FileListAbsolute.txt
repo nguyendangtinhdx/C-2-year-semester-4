@@ -1,0 +1,12 @@
+c:\users\nguye\documents\visual studio 2013\Projects\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\QuanLyNhanVien.exe.config
+c:\users\nguye\documents\visual studio 2013\Projects\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.csprojResolveAssemblyReference.cache
+c:\users\nguye\documents\visual studio 2013\Projects\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.Properties.Resources.resources
+c:\users\nguye\documents\visual studio 2013\Projects\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.QlCanBo.resources
+c:\users\nguye\documents\visual studio 2013\Projects\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.csproj.GenerateResource.Cache
+c:\users\nguye\documents\visual studio 2013\Projects\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\QuanLyNhanVien.exe
+c:\users\nguye\documents\visual studio 2013\Projects\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\QuanLyNhanVien.pdb
+c:\users\nguye\documents\visual studio 2013\Projects\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.exe
+c:\users\nguye\documents\visual studio 2013\Projects\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.pdb
+c:\users\nguye\documents\visual studio 2013\Projects\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.frmInNhanVien.resources
+c:\users\nguye\documents\visual studio 2013\Projects\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\RdlCompile.cache
+c:\users\nguye\documents\visual studio 2013\Projects\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\RdlCompile.compiled

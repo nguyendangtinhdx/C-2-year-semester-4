@@ -1,0 +1,25 @@
+C:\Users\nguye\Documents\QuanLyQuanCafe\Project\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+C:\Users\nguye\Documents\QuanLyQuanCafe\Project\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+C:\Users\nguye\Documents\QuanLyQuanCafe\Project\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+C:\Users\nguye\Documents\QuanLyQuanCafe\Project\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csprojResolveAssemblyReference.cache
+C:\Users\nguye\Documents\QuanLyQuanCafe\Project\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fLogin.resources
+C:\Users\nguye\Documents\QuanLyQuanCafe\Project\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+C:\Users\nguye\Documents\QuanLyQuanCafe\Project\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.Cache
+C:\Users\nguye\Documents\QuanLyQuanCafe\Project\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Documents\QuanLyQuanCafe\Project\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+C:\Users\nguye\Documents\QuanLyQuanCafe\Project\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+C:\Users\nguye\Documents\QuanLyQuanCafe\Project\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fTableManager.resources
+C:\Users\nguye\Documents\QuanLyQuanCafe\Project\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAccountProfile.resources
+C:\Users\nguye\Documents\QuanLyQuanCafe\Project\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAdmin.resources
+C:\Users\nguye\Documents\Visual Studio 2013\Projects\QuanLyQuanCafe\Project\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+C:\Users\nguye\Documents\Visual Studio 2013\Projects\QuanLyQuanCafe\Project\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+C:\Users\nguye\Documents\Visual Studio 2013\Projects\QuanLyQuanCafe\Project\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+C:\Users\nguye\Documents\Visual Studio 2013\Projects\QuanLyQuanCafe\Project\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csprojResolveAssemblyReference.cache
+C:\Users\nguye\Documents\Visual Studio 2013\Projects\QuanLyQuanCafe\Project\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAccountProfile.resources
+C:\Users\nguye\Documents\Visual Studio 2013\Projects\QuanLyQuanCafe\Project\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAdmin.resources
+C:\Users\nguye\Documents\Visual Studio 2013\Projects\QuanLyQuanCafe\Project\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fLogin.resources
+C:\Users\nguye\Documents\Visual Studio 2013\Projects\QuanLyQuanCafe\Project\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fTableManager.resources
+C:\Users\nguye\Documents\Visual Studio 2013\Projects\QuanLyQuanCafe\Project\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+C:\Users\nguye\Documents\Visual Studio 2013\Projects\QuanLyQuanCafe\Project\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.Cache
+C:\Users\nguye\Documents\Visual Studio 2013\Projects\QuanLyQuanCafe\Project\QuanLyQuanCafe\obj\Debug\RdlCompile.cache
+C:\Users\nguye\Documents\Visual Studio 2013\Projects\QuanLyQuanCafe\Project\QuanLyQuanCafe\obj\Debug\RdlCompile.compiled

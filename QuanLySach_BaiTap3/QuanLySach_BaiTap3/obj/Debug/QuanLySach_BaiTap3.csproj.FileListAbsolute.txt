@@ -1,0 +1,12 @@
+c:\users\nguye\documents\visual studio 2013\Projects\QuanLySach_BaiTap3\QuanLySach_BaiTap3\bin\Debug\QuanLySach_BaiTap3.exe.config
+c:\users\nguye\documents\visual studio 2013\Projects\QuanLySach_BaiTap3\QuanLySach_BaiTap3\bin\Debug\QuanLySach_BaiTap3.exe
+c:\users\nguye\documents\visual studio 2013\Projects\QuanLySach_BaiTap3\QuanLySach_BaiTap3\bin\Debug\QuanLySach_BaiTap3.pdb
+c:\users\nguye\documents\visual studio 2013\Projects\QuanLySach_BaiTap3\QuanLySach_BaiTap3\obj\Debug\QuanLySach_BaiTap3.csprojResolveAssemblyReference.cache
+c:\users\nguye\documents\visual studio 2013\Projects\QuanLySach_BaiTap3\QuanLySach_BaiTap3\obj\Debug\QuanLySach_BaiTap3.Properties.Resources.resources
+c:\users\nguye\documents\visual studio 2013\Projects\QuanLySach_BaiTap3\QuanLySach_BaiTap3\obj\Debug\QuanLySach_BaiTap3.csproj.GenerateResource.Cache
+c:\users\nguye\documents\visual studio 2013\Projects\QuanLySach_BaiTap3\QuanLySach_BaiTap3\obj\Debug\QuanLySach_BaiTap3.exe
+c:\users\nguye\documents\visual studio 2013\Projects\QuanLySach_BaiTap3\QuanLySach_BaiTap3\obj\Debug\QuanLySach_BaiTap3.pdb
+c:\users\nguye\documents\visual studio 2013\Projects\QuanLySach_BaiTap3\QuanLySach_BaiTap3\obj\Debug\QuanLySach_BaiTap3.frmSach.resources
+C:\Users\nguye\documents\visual studio 2013\Projects\QuanLySach_BaiTap3\QuanLySach_BaiTap3\obj\Debug\QuanLySach_BaiTap3.frmReport.resources
+C:\Users\nguye\documents\visual studio 2013\Projects\QuanLySach_BaiTap3\QuanLySach_BaiTap3\obj\Debug\RdlCompile.cache
+C:\Users\nguye\documents\visual studio 2013\Projects\QuanLySach_BaiTap3\QuanLySach_BaiTap3\obj\Debug\RdlCompile.compiled

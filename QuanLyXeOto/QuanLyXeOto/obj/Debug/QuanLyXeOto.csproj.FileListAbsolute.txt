@@ -1,0 +1,13 @@
+c:\users\nguye\documents\visual studio 2013\Projects\QuanLyXeOto\QuanLyXeOto\bin\Debug\QuanLyXeOto.exe.config
+c:\users\nguye\documents\visual studio 2013\Projects\QuanLyXeOto\QuanLyXeOto\bin\Debug\QuanLyXeOto.exe
+c:\users\nguye\documents\visual studio 2013\Projects\QuanLyXeOto\QuanLyXeOto\bin\Debug\QuanLyXeOto.pdb
+c:\users\nguye\documents\visual studio 2013\Projects\QuanLyXeOto\QuanLyXeOto\obj\Debug\QuanLyXeOto.csprojResolveAssemblyReference.cache
+c:\users\nguye\documents\visual studio 2013\Projects\QuanLyXeOto\QuanLyXeOto\obj\Debug\QuanLyXeOto.Form1.resources
+c:\users\nguye\documents\visual studio 2013\Projects\QuanLyXeOto\QuanLyXeOto\obj\Debug\QuanLyXeOto.Properties.Resources.resources
+c:\users\nguye\documents\visual studio 2013\Projects\QuanLyXeOto\QuanLyXeOto\obj\Debug\QuanLyXeOto.csproj.GenerateResource.Cache
+c:\users\nguye\documents\visual studio 2013\Projects\QuanLyXeOto\QuanLyXeOto\obj\Debug\QuanLyXeOto.exe
+c:\users\nguye\documents\visual studio 2013\Projects\QuanLyXeOto\QuanLyXeOto\obj\Debug\QuanLyXeOto.pdb
+c:\users\nguye\documents\visual studio 2013\Projects\QuanLyXeOto\QuanLyXeOto\obj\Debug\QuanLyXeOto.frmInHoaDon.resources
+c:\users\nguye\documents\visual studio 2013\Projects\QuanLyXeOto\QuanLyXeOto\obj\Debug\RdlCompile.cache
+c:\users\nguye\documents\visual studio 2013\Projects\QuanLyXeOto\QuanLyXeOto\obj\Debug\RdlCompile.compiled
+c:\users\nguye\documents\visual studio 2013\Projects\QuanLyXeOto\QuanLyXeOto\obj\Debug\QuanLyXeOto.frmThongKe.resources
